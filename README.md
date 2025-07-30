@@ -8,7 +8,15 @@
 ./clitype --time 15
 ```
 
-NOTE: loging you last type session and easy access
+- loging you last type session and easy access
+
+``` bash
+./clitype --log # also need add the first log and all log like --logf --logall  
+date: 20/03/2025
+wpm: 100
+time: 100
+chars: 100
+```
 
 ## reference
 
